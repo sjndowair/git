@@ -23,3 +23,5 @@ const isConstNumber = (a) => {
       return a
 }
 console.log(isConstNumber(5))
+
+const ab =111
