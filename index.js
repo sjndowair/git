@@ -18,3 +18,8 @@ const myNumber = () => {
 }
 
 console.log(myNumber())
+
+const isConstNumber = (a) => {
+      return a
+}
+console.log(isConstNumber(5))
