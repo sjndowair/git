@@ -26,3 +26,6 @@ console.log(isConstNumber(5))
 
 const ab =111
 const abdd = 121212
+
+const h = "안녕"
+const asd = "안녕하세요"
