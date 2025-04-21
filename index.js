@@ -24,5 +24,5 @@ const isConstNumber = (a) => {
 }
 console.log(isConstNumber(5))
 
-const ab = 10;
-
+const ab =111
+const abdd = 121212
