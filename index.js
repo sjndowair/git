@@ -27,19 +27,6 @@ console.log(isConstNumber(5))
 const ab =111
 const abdd = 121212
 
-<<<<<<< HEAD
-const h = "안녕";
-const asd = "안녕하세요";
-let temp2 = [];
-const myNumber2 = () => {
-    for(let i = 0; i < 6; i++){
-        temp2.push(randomNumber());
-    }
-    return temp2
-}
-console.log(myNumber2())
-=======
 const h = "안녕"
 const asd = "안녕하세요"
 const data = "https://www.naver.com"
->>>>>>> little
